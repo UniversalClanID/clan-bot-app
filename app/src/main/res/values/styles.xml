@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clan Bot</string>
+    <color name="icon_bg">#0B0D17</color>
+    <style name="AppTheme" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/icon_bg</item>
+        <item name="android:statusBarColor">#090B14</item>
+        <item name="android:navigationBarColor">#0F1222</item>
+        <item name="android:colorAccent">#7C5CFF</item>
+    </style>
+</resources>
